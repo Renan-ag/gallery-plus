@@ -52,7 +52,7 @@ interface InputTextProps
   error?: React.ReactNode;
 }
 
-export default function IntpuText({
+export default function InputText({
   size,
   disabled,
   icon,
